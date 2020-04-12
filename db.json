@@ -4,6 +4,7 @@
   },
   "items": [
     {
+      "id": "item1",
       "type": "FOOD",
       "properties": {
         "name": "Chips",
@@ -14,6 +15,7 @@
       "quantity": 2
     },
     {
+      "id": "item2",
       "type": "DRINK",
       "properties": {
         "name": "Coca-Cola",
@@ -23,6 +25,7 @@
       "quantity": 4
     },
     {
+      "id": "item3",
       "type": "DRINK",
       "properties": {
         "name": "Pepsi Light",
@@ -32,6 +35,7 @@
       "quantity": 1
     },
     {
+      "id": "item4",
       "type": "FOOD",
       "properties": {
         "name": "Salad",
@@ -42,6 +46,7 @@
       "quantity": 1
     },
     {
+      "id": "item5",
       "type": "DRINK",
       "properties": {
         "name": "Cappy Orange",
@@ -51,6 +56,7 @@
       "quantity": 8
     },
     {
+      "id": "item6",
       "type": "DRINK",
       "properties": {
         "name": "Perrier",
@@ -60,6 +66,7 @@
       "quantity": 10
     },
     {
+      "id": "item7",
       "type": "FOOD",
       "properties": {
         "name": "Cheese cake",
