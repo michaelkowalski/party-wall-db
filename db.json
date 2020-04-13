@@ -1,6 +1,7 @@
 {
   "profile": {
-    "name": "kovalsky"
+    "name": "kovalsky",
+    "id": "user1"
   },
   "items": [
     {
@@ -12,7 +13,8 @@
         "weight": 200
       },
       "price": 5.5,
-      "quantity": 2
+      "quantity": 2,
+      "user": "user2"
     },
     {
       "id": "item2",
@@ -22,7 +24,8 @@
         "volume": 0.2
       },
       "price": 2.2,
-      "quantity": 4
+      "quantity": 4,
+      "user": "user1"
     },
     {
       "id": "item3",
@@ -32,7 +35,8 @@
         "volume": 0.5
       },
       "price": 4.95,
-      "quantity": 1
+      "quantity": 1,
+      "user": "user3"
     },
     {
       "id": "item4",
@@ -43,7 +47,8 @@
         "weight": 500
       },
       "price": 8,
-      "quantity": 1
+      "quantity": 1,
+      "user": "user1"
     },
     {
       "id": "item5",
@@ -53,7 +58,8 @@
         "volume": 1.0
       },
       "price": 5.9,
-      "quantity": 8
+      "quantity": 8,
+      "user": "user3"
     },
     {
       "id": "item6",
@@ -63,7 +69,8 @@
         "volume": 0.33
       },
       "price": 3.5,
-      "quantity": 10
+      "quantity": 10,
+      "user": "user2"
     },
     {
       "id": "item7",
@@ -74,7 +81,8 @@
         "weight": 300
       },
       "price": 5,
-      "quantity": 1
+      "quantity": 1,
+      "user": "user2"
     }
   ]
 }
